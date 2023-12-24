@@ -9,9 +9,9 @@
 * 📧 Kişisel (Personal): [xrqu@sdevs.org](mailto:xrqu@sdevs.org), [me@heytr.live](mailto:me@heytr.live)
 * 📧 NEBK Projesi (NEBK Project): [iletisim@eczaneler.works](mailto:iletisim@eczaneler.works)
 * 📧 HeyTeknik CDN Projesi (HT CDN Project):
-** [cdniletisim@heyteknik.works](mailto:cdniletisim@heyteknik.works) (CDN 1 Sunucusu için/CDN 1 Project for)
-** [cdniletisim2@heyteknik.works](mailto:cdniletisim2@heyteknik.works) (CDN 2 Sunucusu için/CDN 2 Project for)
-** [cdniletisim3@heyteknik.works](mailto:cdniletisim3@heyteknik.works) (CDN 3 Sunucusu için/CDN 3 Project for)
+[cdniletisim@heyteknik.works](mailto:cdniletisim@heyteknik.works) (CDN 1 Sunucusu için/CDN 1 Project for)<br>
+[cdniletisim2@heyteknik.works](mailto:cdniletisim2@heyteknik.works) (CDN 2 Sunucusu için/CDN 2 Project for)<br>
+[cdniletisim3@heyteknik.works](mailto:cdniletisim3@heyteknik.works) (CDN 3 Sunucusu için/CDN 3 Project for)<br>
 
 ### 💫 Sosyal Medya (Sosical Media)
 * 💫 Twitter (X): [@HayatDrubunu](https://x.com/@HayatDrubunu)
