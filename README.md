@@ -4,7 +4,7 @@
 * <b>👋🏻 TR:</b> Herkese Merhaba, Ben Hey Türkiye. Lise öğrencisiyim ve Fobi olarak GitHub'ta bazen fork projeleri geliştirerek, bazen baştan proje (kısmî olarak ta eğlence projeleri) üreterek gönüllü/reklamlı olarak kendimi geliştirmeye çalışıyorum. Projelerimi beğendiyseniz projelerime star atmanız çok makbule geçer. Kendinize iyi bakın, hoşçakalın 👋🏻
 * <b>👋🏻 EN:</b> Hello Everyone, I'm Hey Türkiye. I am a high school student and as Fobi, I try to improve myself as a volunteer/advertisement, sometimes by developing fork projects on GitHub, sometimes by creating projects from scratch (partially for fun projects). If you like my projects, it would be greatly appreciated if you star my projects. Take care of yourself Bye 👋🏻
 
-## İletişim (Contact)
+## 📞 İletişim (Contact)
 ### 📧 E-mail
 * 📧 Kişisel (Personal): [xrqu@sdevs.org](mailto:xrqu@sdevs.org), [me@heytr.live](mailto:me@heytr.live)
 * 📧 NEBK Projesi (NEBK Project): [iletisim@eczaneler.works](mailto:iletisim@eczaneler.works)
