@@ -19,7 +19,7 @@
 ### 💫 Sosyal Medya (Sosical Media)
 * 💫 Twitter (X): [@HayatDrubunu](https://x.com/@HayatDrubunu)
 * 💫 İnstagram: [@xrqu.live](https://instagram.com/@xrqu.live)
-* 💫 Discord: [@heyturkiye](https://discord.com/users/718374283642011728)
+* 💫 Discord: [@heyturkiye](https://discord.com/users/718374283642011728) <p align="right"><img src="https://api.heytr.live/api/718374283642011728" width="300" alt="Resim açıklaması"></p>
 
 ## 📊 Github İstatistikleri (Github Stats)
 ![](https://github-readme-stats.vercel.app/api?username=heyturkiye204&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
