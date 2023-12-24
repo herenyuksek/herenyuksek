@@ -1,5 +1,3 @@
-![Muhsin Yazıcıoğlu](https://pbs.twimg.com/profile_banners/1473073353900666880/1703359780/1080x360)
-
 ## 👋🏻 Hakkımda (About me)
 <img width="200" align="right" src="https://raw.githubusercontent.com/heyturkiye204/heyturkiye204/main/1703403315724.png" />
 
