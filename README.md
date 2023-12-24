@@ -1,6 +1,8 @@
 ![Muhsin Yazıcıoğlu](https://pbs.twimg.com/profile_banners/1473073353900666880/1703359780/1080x360)
 
 ## 👋🏻 Hakkımda (About me)
+<img width="200" align="right" src="https://a.com" />
+
 * <b>👋🏻 TR:</b> Herkese Merhaba, Ben Hey Türkiye. Lise öğrencisiyim ve Fobi olarak GitHub'ta bazen fork projeleri geliştirerek, bazen baştan proje (kısmî olarak ta eğlence projeleri) üreterek gönüllü/reklamlı olarak kendimi geliştirmeye çalışıyorum. Projelerimi beğendiyseniz projelerime star atmanız çok makbule geçer. Kendinize iyi bakın, hoşçakalın 👋🏻
 * <b>👋🏻 EN:</b> Hello Everyone, I'm Hey Türkiye. I am a high school student and as Fobi, I try to improve myself as a volunteer/advertisement, sometimes by developing fork projects on GitHub, sometimes by creating projects from scratch (partially for fun projects). If you like my projects, it would be greatly appreciated if you star my projects. Take care of yourself Bye 👋🏻
 
