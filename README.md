@@ -1,8 +1,8 @@
 ## 👋🏻 Hakkımda (About me)
 <img width="200" align="right" src="https://raw.githubusercontent.com/heyturkiye204/heyturkiye204/main/1703403315724.png" />
 
-* <b>👋🏻 TR:</b> Herkese Merhaba, Ben Hey Türkiye. Lise öğrencisiyim ve Fobi olarak GitHub'ta bazen fork projeleri geliştirerek, bazen baştan proje (kısmî olarak ta eğlence projeleri) üreterek gönüllü/reklamlı olarak kendimi geliştirmeye çalışıyorum. Projelerimi beğendiyseniz projelerime star atmanız çok makbule geçer. Kendinize iyi bakın, hoşçakalın 👋🏻
-* <b>👋🏻 EN:</b> Hello Everyone, I'm Hey Türkiye. I am a high school student and as Fobi, I try to improve myself as a volunteer/advertisement, sometimes by developing fork projects on GitHub, sometimes by creating projects from scratch (partially for fun projects). If you like my projects, it would be greatly appreciated if you star my projects. Take care of yourself Bye 👋🏻
+* <b>👋🏻 TR:</b> Herkese Merhaba, Ben Hey Türkiye. Lise öğrencisiyim ve Hobi olarak GitHub'ta bazen fork projeleri geliştirerek, bazen baştan proje (kısmî olarak ta eğlence projeleri) üreterek gönüllü/reklamlı olarak kendimi geliştirmeye çalışıyorum. Projelerimi beğendiyseniz projelerime star atmanız çok makbule geçer. Kendinize iyi bakın, hoşçakalın 👋🏻
+* <b>👋🏻 EN:</b> Hello everyone, I'm Hey Türkiye. I'm a high school student and I'm trying to improve myself on GitHub as a hobby, sometimes by developing fork projects, sometimes by creating projects from scratch (partly entertainment projects) on a voluntary/advertised basis. If you like my projects, it would be very appreciated if you star my projects. Take care, goodbye 👋🏻
 
 ## 📞 İletişim (Contact)
 * 😀 Personal Website: [heytr.live](https://heytr.live/)
