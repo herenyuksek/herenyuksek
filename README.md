@@ -16,7 +16,7 @@
 
 ### 💫 Sosyal Medya (Sosical Media)
 * 💫 Twitter (X): [@HayatDrubunu](https://x.com/@HayatDrubunu)
-* 💫 İnstagram: [@xrqu.live](https://instagram.com/@xrqu.live)
+* 💫 İnstagram: [@xrqu.live](https://instagram.com/xrqu.live)
 * 💫 Discord: [@heyturkiye](https://discord.com/users/718374283642011728) <p align="right"><img src="https://api.heytr.live/api/718374283642011728" width="300" alt="Resim açıklaması"></p>
 
 ## 📊 Github İstatistikleri (Github Stats)
