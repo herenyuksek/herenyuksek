@@ -1,4 +1,5 @@
 <img width="1080" align="right" src="https://heyturkiye204.github.io/heyturkiye204/cdn/banner.jpg" />
+
 ## 👋🏻 Hakkımda (About me)
 <img width="200" align="right" src="https://heyturkiye204.github.io/heyturkiye204/cdn/profil.png" />
 
