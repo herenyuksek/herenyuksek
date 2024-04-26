@@ -1,4 +1,5 @@
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=heyturkiye204)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=heyturkiye204&left_text=Ziyaretçi%20Sayısı:)
+
 ## 👋🏻 Hakkımda (About me)
 <img width="200" align="right" src="https://heyturkiye204.github.io/heyturkiye204/cdn/profil.png" />
 
