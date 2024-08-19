@@ -1,0 +1,39 @@
+;; SOA Record
+yuksekcmh.tech	3600	IN	SOA	; This is a placeholder SOA record with no functional impact
+; ivan.ns.cloudflare.com. dns.cloudflare.com. 2047573956 10000 2400 604800 3600
+
+;; NS Records
+yuksekcmh.tech.	86400	IN	NS	; No operational nameservers
+
+;; CNAME Records
+heybel.yuksekcmh.tech.	1	IN	CNAME	; No data
+hey.yuksekcmh.tech.	1	IN	CNAME	; No data
+ibhim.hey.yuksekcmh.tech.	1	IN	CNAME	; No data
+icsm.hey.yuksekcmh.tech.	1	IN	CNAME	; No data
+igim.hey.yuksekcmh.tech.	1	IN	CNAME	; No data
+igsm.hey.yuksekcmh.tech.	1	IN	CNAME	; No data
+ihttm.hey.yuksekcmh.tech.	1	IN	CNAME	; No data
+iidkm.hey.yuksekcmh.tech.	1	IN	CNAME	; No data
+iihk.hey.yuksekcmh.tech.	1	IN	CNAME	; No data
+ijk.hey.yuksekcmh.tech.	1	IN	CNAME	; No data
+iktm.hey.yuksekcmh.tech.	1	IN	CNAME	; No data
+imem.hey.yuksekcmh.tech.	1	IN	CNAME	; No data
+imm.hey.yuksekcmh.tech.	1	IN	CNAME	; No data
+invm.hey.yuksekcmh.tech.	1	IN	CNAME	; No data
+ipm.hey.yuksekcmh.tech.	1	IN	CNAME	; No data
+ism.hey.yuksekcmh.tech.	1	IN	CNAME	; No data
+istim.hey.yuksekcmh.tech.	1	IN	CNAME	; No data
+isydv.hey.yuksekcmh.tech.	1	IN	CNAME	; No data
+itom.hey.yuksekcmh.tech.	1	IN	CNAME	; No data
+sogutozubel.yuksekcmh.tech.	1	IN	CNAME	; No data
+sogutozu.yuksekcmh.tech.	1	IN	CNAME	; No data
+www.heybel.yuksekcmh.tech.	1	IN	CNAME	; No data
+www.hey.yuksekcmh.tech.	1	IN	CNAME	; No data
+www.sogutozu.yuksekcmh.tech.	1	IN	CNAME	; No data
+
+;; MX Records
+yuksekcmh.tech.	1	IN	MX	; No mail exchange servers
+
+;; TXT Records
+_discord.bimbimbimkalbimdebenimbimbim.yuksekcmh.tech.	1	IN	TXT	; No data
+yuksekcmh.tech.	1	IN	TXT	; No SPF records
