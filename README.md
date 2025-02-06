@@ -1,7 +1,6 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=heyturkiye204&left_text=👁%20Ziyaretçi%20Sayısı:%20(Visitors):)
 
 ## 👋🏻 Hakkımda (About me)
-<img width="200" align="right" src="https://heyturkiye204.github.io/heyturkiye204/cdn/profil.png" />
 
 * <b>👋🏻 TR:</b> Herkese Merhaba, Ben Hey Türkiye. Lise öğrencisiyim ve Hobi olarak GitHub'ta bazen fork projeleri geliştirerek, bazen baştan proje (kısmî olarak ta eğlence projeleri) üreterek gönüllü/reklamlı olarak kendimi geliştirmeye çalışıyorum. Projelerimi beğendiyseniz projelerime star atmanız çok makbule geçer. Kendinize iyi bakın, hoşçakalın 👋🏻
 * <b>👋🏻 EN:</b> Hello everyone, I'm Hey Türkiye. I'm a high school student and I'm trying to improve myself on GitHub as a hobby, sometimes by developing fork projects, sometimes by creating projects from scratch (partly entertainment projects) on a voluntary/advertised basis. If you like my projects, it would be very appreciated if you star my projects. Take care, goodbye 👋🏻
