@@ -24,6 +24,7 @@
 ## 📊 Github İstatistikleri (Github Stats)
 <details>
 <summary><b>Detayları görmek için tıkla! (Click to see the details!)</b></summary>
+
 ![](https://github-readme-stats.vercel.app/api?username=heyturkiye204&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://heytrgithublink.vercel.app/?user=heyturkiye204&theme=dark&hide_border=false&locale=tr)<br/>
 ![](https://heytrgithublink.vercel.app?user=heytrgithub&theme=dark&hide_border=false&locale=tr)<br/>
