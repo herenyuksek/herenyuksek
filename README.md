@@ -6,14 +6,14 @@
 * <b>👋🏻 EN:</b> Hello everyone, I'm Hey Türkiye. I'm a high school student and I'm trying to improve myself on GitHub as a hobby, sometimes by developing fork projects, sometimes by creating projects from scratch (partly entertainment projects) on a voluntary/advertised basis. If you like my projects, it would be very appreciated if you star my projects. Take care, goodbye 👋🏻
 
 ## 📞 İletişim (Contact)
-* 😀 Personal Website: [heytr.live](https://heytr.live/)
+<!-- * 😀 Personal Website: [heytr.live](https://heytr.live/)
 ### 📧 E-mail
 * 📧 Kişisel (Personal): [xrqu@sdevs.org](mailto:xrqu@sdevs.org), [me@heytr.live](mailto:me@heytr.live)
 * 📧 NEBK Projesi (NEBK Project): [iletisim@eczaneler.works](mailto:iletisim@eczaneler.works)
 * 📧 HeyTeknik CDN Projesi (HT CDN Project):<br>
 [cdniletisim@heyteknik.works](mailto:cdniletisim@heyteknik.works) (CDN 1 Sunucusu için/CDN 1 Project for)<br>
 [cdniletisim2@heyteknik.works](mailto:cdniletisim2@heyteknik.works) (CDN 2 Sunucusu için/CDN 2 Project for)<br>
-[cdniletisim3@heyteknik.works](mailto:cdniletisim3@heyteknik.works) (CDN 3 Sunucusu için/CDN 3 Project for)<br>
+[cdniletisim3@heyteknik.works](mailto:cdniletisim3@heyteknik.works) (CDN 3 Sunucusu için/CDN 3 Project for)<br> -->
 
 ### 💫 Sosyal Medya (Sosical Media)
 * 💫 Twitter (X): [@HayatDrubunu](https://x.com/@HayatDrubunu)
