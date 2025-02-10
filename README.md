@@ -21,7 +21,10 @@
 * 💫 Discord: [@heyturkiye](https://discord.com/users/718374283642011728) <p align="right"><img src="https://grfd.systems/api/718374283642011728?bg=0c66ab&borderRadius=15px&idleMessage=%F0%9D%97%A7%F0%9D%97%A5:%20Merhaba,%20Ben%20Hey%20T%C3%BCrkiye%20:)%20GitHub%20sayfama%20ho%C5%9Fgeldiniz.%20%F0%9D%97%98%F0%9D%97%A1:%20Hi,%20I%27m%20Hey%20T%C3%BCrkiye.%20Welcome%20to%20Github%20Page." width="300" alt="Resim açıklaması 1"></p>
 
 ## 📊 Github İstatistikleri (Github Stats)
+<details>
+<summary><b>Detayları görmek için tıkla! (Click to see the details!)</b></summary>
 ![](https://github-readme-stats.vercel.app/api?username=heyturkiye204&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://heytrgithublink.vercel.app/?user=heyturkiye204&theme=dark&hide_border=false&locale=tr)<br/>
 ![](https://heytrgithublink.vercel.app?user=heytrgithub&theme=dark&hide_border=false&locale=tr)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=heyturkiye204&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</details>
